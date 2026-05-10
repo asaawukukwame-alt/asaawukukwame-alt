@@ -59,4 +59,4 @@ Before transitioning into data science and AI, I built experience in logistics, 
 - LinkedIn: [Kwame Asa-Awuku](https://www.linkedin.com/in/kwame-asa-awuku-
 - 164a5737b)
 - GitHub: [asaawukukwame-alt](https://github.com/asaawukukwame-alt)
-- https://docs.google.com/document/d/1Su0F5LxZE4rf78kLx_qAF7tM9qOOrJzyRV8IZmj_Yao/edit?tab=t.0#heading=h.argmmq5rq4o7
+- [https://docs.google.com/document/d/1Su0F5LxZE4rf78kLx_qAF7tM9qOOrJzyRV8IZmj_Yao/edit?tab=t.0#heading=h.argmmq5rq4o7](https://docs.google.com/document/d/1Su0F5LxZE4rf78kLx_qAF7tM9qOOrJzyRV8IZmj_Yao/edit?tab=t.0#heading=h.argmmq5rq4o7)
