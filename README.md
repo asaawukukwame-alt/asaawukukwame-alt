@@ -56,5 +56,7 @@ Before transitioning into data science and AI, I built experience in logistics, 
 ## Contact
 
 - Email: asaawukukwame@gmail.com
-- LinkedIn: [Kwame Asa-Awuku](https://www.linkedin.com/in/kwame-asa-awuku-164a5737b)
+- LinkedIn: [Kwame Asa-Awuku](https://www.linkedin.com/in/kwame-asa-awuku-
+- 164a5737b)
 - GitHub: [asaawukukwame-alt](https://github.com/asaawukukwame-alt)
+- [https://docs.google.com/document/?usp=docs_alc&authuser=5](https://accounts.google.com/SignOutOptions?hl=en&continue=https://docs.google.com/document/d/1Su0F5LxZE4rf78kLx_qAF7tM9qOOrJzyRV8IZmj_Yao/edit%3Fouid%3D109096043634156198834%26usp%3Ddocs_home%26ths%3Dtrue&service=writely&ec=GBRAGQ)
