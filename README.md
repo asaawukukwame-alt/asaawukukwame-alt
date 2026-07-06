@@ -1,4 +1,4 @@
-# # Hi, I'm Kwame Asa-Awuku
+# Hi, I'm Kwame Asa-Awuku
 
 Aspiring Data Scientist, Machine Learning Engineer, and AI Engineer building practical AI and ML projects with Python, SQL, scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, Streamlit, LangGraph, OpenAI APIs, and data analysis tools.
 
@@ -22,6 +22,16 @@ I am transitioning into tech with a portfolio focused on business-driven data sc
 LangGraph-powered AI stock research agent that gathers SEC EDGAR fundamentals, Yahoo Finance market data, recent news headlines, and generates structured research briefs using GPT-4o.
 
 **Skills:** Python, LangGraph, OpenAI API, LangChain, Pydantic, yfinance, SEC EDGAR API, Streamlit
+
+**Repository:** https://github.com/asaawukukwame-alt/ai-stock-research-agent
+
+### TripleTen Data Science Portfolio
+
+Collection of machine learning and data science projects covering customer churn prediction, NLP sentiment classification, used car price prediction, gold recovery modeling, and taxi demand forecasting.
+
+**Skills:** Python, pandas, NumPy, scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, Jupyter Notebook, model evaluation
+
+**Repository:** https://github.com/asaawukukwame-alt/Data_projects_TripleTen
 
 ### Telecom Churn Prediction
 
@@ -49,12 +59,23 @@ Compared regression models to predict used car prices while evaluating model qua
 
 ## Technical Skills
 
-**Languages:** Python, SQL
-**Data:** pandas, NumPy, SciPy, Excel
-**Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras
-**AI Engineering:** OpenAI API, LangGraph, LangChain, Pydantic, Streamlit
-**Core Areas:** Data cleaning, EDA, feature engineering, classification, regression, NLP, time series, model evaluation
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code
+* **Languages:** Python, SQL
+* **Data:** pandas, NumPy, SciPy, Excel
+* **Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras
+* **AI Engineering:** OpenAI API, LangGraph, LangChain, Pydantic, Streamlit
+* **Core Areas:** Data cleaning, EDA, feature engineering, classification, regression, NLP, time series, model evaluation
+* **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+## Current Focus
+
+I am currently strengthening my portfolio with projects in:
+
+* RAG APIs with FastAPI
+* AWS Bedrock chatbots
+* AI agents
+* AI GTM automation tools
+* Streamlit dashboards
+* Dockerized AI applications
 
 ## Background
 
@@ -65,4 +86,3 @@ Before transitioning into data science and AI, I built experience in logistics, 
 * Email: [asaawukukwame@gmail.com](mailto:asaawukukwame@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/kwame-asa-awuku-164a5737b
 * GitHub: https://github.com/asaawukukwame-alt
-
