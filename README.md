@@ -1,88 +1,216 @@
-# Hi, I'm Kwame Asa-Awuku
+\# Hi, I'm Kwame Asa-Awuku
 
-Aspiring Data Scientist, Machine Learning Engineer, and AI Engineer building practical AI and ML projects with Python, SQL, scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, Streamlit, LangGraph, OpenAI APIs, and data analysis tools.
+
+
+I am a Data Science and AI Engineering student building practical machine learning, data science, and AI application projects with Python, SQL, Streamlit, LangGraph, OpenAI APIs, and scikit-learn.
+
+
 
 I am transitioning into tech with a portfolio focused on business-driven data science, machine learning, AI agents, NLP, time series forecasting, and applied AI systems.
 
-## Career Focus
 
-* Data Science
-* Machine Learning Engineering
-* AI Engineering
-* Generative AI Applications
-* NLP and Text Classification
-* Time Series Forecasting
-* Business-Focused Data Analysis
-* AI Automation and GTM Tools
 
-## Featured Projects
+\## Career Focus
 
-### AI Stock Research Agent
 
-LangGraph-powered AI stock research agent that gathers SEC EDGAR fundamentals, Yahoo Finance market data, recent news headlines, and generates structured research briefs using GPT-4o.
 
-**Skills:** Python, LangGraph, OpenAI API, LangChain, Pydantic, yfinance, SEC EDGAR API, Streamlit
+\* Data Science
 
-**Repository:** https://github.com/asaawukukwame-alt/ai-stock-research-agent
+\* Machine Learning Engineering
 
-### TripleTen Data Science Portfolio
+\* AI Engineering
 
-Collection of machine learning and data science projects covering customer churn prediction, NLP sentiment classification, used car price prediction, gold recovery modeling, and taxi demand forecasting.
+\* Generative AI Applications
 
-**Skills:** Python, pandas, NumPy, scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, Jupyter Notebook, model evaluation
+\* NLP and Text Classification
 
-**Repository:** https://github.com/asaawukukwame-alt/Data_projects_TripleTen
+\* Time Series Forecasting
 
-### Telecom Churn Prediction
+\* Business-Focused Data Analysis
+
+\* AI Automation Tools
+
+
+
+\## Featured Projects
+
+
+
+\### AI Stock Research Agent
+
+
+
+A LangGraph-powered AI research application that gathers SEC EDGAR fundamentals, Yahoo Finance market data, and recent headlines to generate structured equity research briefs using GPT-4o.
+
+
+
+\*\*Skills:\*\* Python, LangGraph, OpenAI API, LangChain, Pydantic, yfinance, SEC EDGAR API, Streamlit
+
+
+
+\*\*Repository:\*\* https://github.com/asaawukukwame-alt/ai-stock-research-agent
+
+
+
+\---
+
+
+
+\### TripleTen Data Science Portfolio
+
+
+
+A collection of applied data science and machine learning projects covering customer churn prediction, sentiment classification, used car price prediction, gold recovery modeling, and taxi demand forecasting.
+
+
+
+\*\*Skills:\*\* Python, pandas, NumPy, scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, Jupyter Notebook, model evaluation
+
+
+
+\*\*Repository:\*\* https://github.com/asaawukukwame-alt/Data\_projects\_TripleTen
+
+
+
+\---
+
+
+
+\### Telecom Churn Prediction
+
+
 
 Built a CatBoost classification model to predict customer churn and support customer retention strategy.
 
-**Skills:** Python, pandas, scikit-learn, CatBoost, LightGBM, feature engineering, AUC-ROC, classification
 
-### Taxi Demand Forecasting
 
-Built a time-series forecasting model to predict hourly taxi demand using lag features and rolling averages.
+\*\*Skills:\*\* Python, pandas, scikit-learn, CatBoost, LightGBM, feature engineering, AUC-ROC, classification
 
-**Skills:** Python, pandas, scikit-learn, time series, regression, RMSE, feature engineering
 
-### Movie Review Sentiment Classification
 
-Built an NLP model to classify movie reviews by sentiment using preprocessing and machine learning.
+\---
 
-**Skills:** Python, NLP, text preprocessing, classification, model evaluation
 
-### Used Car Price Prediction
 
-Compared regression models to predict used car prices while evaluating model quality, speed, and business usefulness.
+\### Taxi Demand Forecasting
 
-**Skills:** Python, regression, LightGBM, CatBoost, model comparison, RMSE
 
-## Technical Skills
 
-* **Languages:** Python, SQL
-* **Data:** pandas, NumPy, SciPy, Excel
-* **Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras
-* **AI Engineering:** OpenAI API, LangGraph, LangChain, Pydantic, Streamlit
-* **Core Areas:** Data cleaning, EDA, feature engineering, classification, regression, NLP, time series, model evaluation
-* **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+Built a time-series forecasting model to predict hourly taxi demand using lag features, rolling averages, and regression models.
 
-## Current Focus
 
-I am currently strengthening my portfolio with projects in:
 
-* RAG APIs with FastAPI
-* AWS Bedrock chatbots
-* AI agents
-* AI GTM automation tools
-* Streamlit dashboards
-* Dockerized AI applications
+\*\*Skills:\*\* Python, pandas, scikit-learn, time series, regression, RMSE, feature engineering
 
-## Background
 
-Before transitioning into data science and AI, I built experience in logistics, operations, documentation, compliance, communication, and problem-solving. That background helps me approach technical projects with business awareness, discipline, and practical decision-making.
 
-## Contact
+\---
 
-* Email: [asaawukukwame@gmail.com](mailto:asaawukukwame@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/kwame-asa-awuku-164a5737b
-* GitHub: https://github.com/asaawukukwame-alt
+
+
+\### Movie Review Sentiment Classification
+
+
+
+Built an NLP model to classify movie reviews by sentiment using text preprocessing and machine learning classification methods.
+
+
+
+\*\*Skills:\*\* Python, NLP, text preprocessing, classification, model evaluation
+
+
+
+\---
+
+
+
+\### Used Car Price Prediction
+
+
+
+Compared regression models to predict used car prices while evaluating model quality, training speed, prediction speed, and business usefulness.
+
+
+
+\*\*Skills:\*\* Python, regression, LightGBM, CatBoost, model comparison, RMSE
+
+
+
+\## Technical Skills
+
+
+
+\*\*Languages:\*\* Python, SQL
+
+
+
+\*\*Data Analysis:\*\* pandas, NumPy, SciPy, Excel, data cleaning, exploratory data analysis
+
+
+
+\*\*Machine Learning:\*\* scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, classification, regression, model evaluation
+
+
+
+\*\*AI Engineering:\*\* OpenAI API, LangGraph, LangChain, Pydantic, Streamlit, structured LLM outputs
+
+
+
+\*\*Core Areas:\*\* feature engineering, NLP, time series forecasting, supervised learning, model validation, business analysis
+
+
+
+\*\*Tools:\*\* Git, GitHub, Jupyter Notebook, VS Code
+
+
+
+\## Current Focus
+
+
+
+I am currently strengthening my portfolio with:
+
+
+
+\* RAG applications
+
+\* FastAPI model APIs
+
+\* AWS Bedrock chatbots
+
+\* AI agents
+
+\* Streamlit dashboards
+
+\* Dockerized AI applications
+
+\* Job-ready GitHub documentation
+
+
+
+\## Background
+
+
+
+Before transitioning into data science and AI, I built experience in logistics, operations, documentation, compliance, communication, and problem-solving.
+
+
+
+That background helps me approach technical projects with business awareness, discipline, and practical decision-making.
+
+
+
+\## Contact
+
+
+
+\* Email: \[asaawukukwame@gmail.com](mailto:asaawukukwame@gmail.com)
+
+\* LinkedIn: https://www.linkedin.com/in/kwame-asa-awuku-164a5737b
+
+\* GitHub: https://github.com/asaawukukwame-alt
+
+
+
+
+
