@@ -1,216 +1,106 @@
-\# Hi, I'm Kwame Asa-Awuku
-
-
+# Hi, I'm Kwame Asa-Awuku
 
 I am a Data Science and AI Engineering student building practical machine learning, data science, and AI application projects with Python, SQL, Streamlit, LangGraph, OpenAI APIs, and scikit-learn.
 
-
-
 I am transitioning into tech with a portfolio focused on business-driven data science, machine learning, AI agents, NLP, time series forecasting, and applied AI systems.
 
+## Career Focus
 
+- Data Science
+- Machine Learning Engineering
+- AI Engineering
+- Generative AI Applications
+- NLP and Text Classification
+- Time Series Forecasting
+- Business-Focused Data Analysis
+- AI Automation Tools
 
-\## Career Focus
+## Featured Projects
 
-
-
-\* Data Science
-
-\* Machine Learning Engineering
-
-\* AI Engineering
-
-\* Generative AI Applications
-
-\* NLP and Text Classification
-
-\* Time Series Forecasting
-
-\* Business-Focused Data Analysis
-
-\* AI Automation Tools
-
-
-
-\## Featured Projects
-
-
-
-\### AI Stock Research Agent
-
-
+### AI Stock Research Agent
 
 A LangGraph-powered AI research application that gathers SEC EDGAR fundamentals, Yahoo Finance market data, and recent headlines to generate structured equity research briefs using GPT-4o.
 
+**Skills:** Python, LangGraph, OpenAI API, LangChain, Pydantic, yfinance, SEC EDGAR API, Streamlit
 
+**Repository:** https://github.com/asaawukukwame-alt/ai-stock-research-agent
 
-\*\*Skills:\*\* Python, LangGraph, OpenAI API, LangChain, Pydantic, yfinance, SEC EDGAR API, Streamlit
+---
 
-
-
-\*\*Repository:\*\* https://github.com/asaawukukwame-alt/ai-stock-research-agent
-
-
-
-\---
-
-
-
-\### TripleTen Data Science Portfolio
-
-
+### TripleTen Data Science Portfolio
 
 A collection of applied data science and machine learning projects covering customer churn prediction, sentiment classification, used car price prediction, gold recovery modeling, and taxi demand forecasting.
 
+**Skills:** Python, pandas, NumPy, scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, Jupyter Notebook, model evaluation
 
+**Repository:** https://github.com/asaawukukwame-alt/Data_projects_TripleTen
 
-\*\*Skills:\*\* Python, pandas, NumPy, scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, Jupyter Notebook, model evaluation
+---
 
-
-
-\*\*Repository:\*\* https://github.com/asaawukukwame-alt/Data\_projects\_TripleTen
-
-
-
-\---
-
-
-
-\### Telecom Churn Prediction
-
-
+### Telecom Churn Prediction
 
 Built a CatBoost classification model to predict customer churn and support customer retention strategy.
 
+**Skills:** Python, pandas, scikit-learn, CatBoost, LightGBM, feature engineering, AUC-ROC, classification
 
+---
 
-\*\*Skills:\*\* Python, pandas, scikit-learn, CatBoost, LightGBM, feature engineering, AUC-ROC, classification
-
-
-
-\---
-
-
-
-\### Taxi Demand Forecasting
-
-
+### Taxi Demand Forecasting
 
 Built a time-series forecasting model to predict hourly taxi demand using lag features, rolling averages, and regression models.
 
+**Skills:** Python, pandas, scikit-learn, time series, regression, RMSE, feature engineering
 
+---
 
-\*\*Skills:\*\* Python, pandas, scikit-learn, time series, regression, RMSE, feature engineering
-
-
-
-\---
-
-
-
-\### Movie Review Sentiment Classification
-
-
+### Movie Review Sentiment Classification
 
 Built an NLP model to classify movie reviews by sentiment using text preprocessing and machine learning classification methods.
 
+**Skills:** Python, NLP, text preprocessing, classification, model evaluation
 
+---
 
-\*\*Skills:\*\* Python, NLP, text preprocessing, classification, model evaluation
-
-
-
-\---
-
-
-
-\### Used Car Price Prediction
-
-
+### Used Car Price Prediction
 
 Compared regression models to predict used car prices while evaluating model quality, training speed, prediction speed, and business usefulness.
 
+**Skills:** Python, regression, LightGBM, CatBoost, model comparison, RMSE
 
+## Technical Skills
 
-\*\*Skills:\*\* Python, regression, LightGBM, CatBoost, model comparison, RMSE
+**Languages:** Python, SQL
 
+**Data Analysis:** pandas, NumPy, SciPy, Excel, data cleaning, exploratory data analysis
 
+**Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, classification, regression, model evaluation
 
-\## Technical Skills
+**AI Engineering:** OpenAI API, LangGraph, LangChain, Pydantic, Streamlit, structured LLM outputs
 
+**Core Areas:** feature engineering, NLP, time series forecasting, supervised learning, model validation, business analysis
 
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
-\*\*Languages:\*\* Python, SQL
-
-
-
-\*\*Data Analysis:\*\* pandas, NumPy, SciPy, Excel, data cleaning, exploratory data analysis
-
-
-
-\*\*Machine Learning:\*\* scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, classification, regression, model evaluation
-
-
-
-\*\*AI Engineering:\*\* OpenAI API, LangGraph, LangChain, Pydantic, Streamlit, structured LLM outputs
-
-
-
-\*\*Core Areas:\*\* feature engineering, NLP, time series forecasting, supervised learning, model validation, business analysis
-
-
-
-\*\*Tools:\*\* Git, GitHub, Jupyter Notebook, VS Code
-
-
-
-\## Current Focus
-
-
+## Current Focus
 
 I am currently strengthening my portfolio with:
 
+- RAG applications
+- FastAPI model APIs
+- AWS Bedrock chatbots
+- AI agents
+- Streamlit dashboards
+- Dockerized AI applications
+- Job-ready GitHub documentation
 
-
-\* RAG applications
-
-\* FastAPI model APIs
-
-\* AWS Bedrock chatbots
-
-\* AI agents
-
-\* Streamlit dashboards
-
-\* Dockerized AI applications
-
-\* Job-ready GitHub documentation
-
-
-
-\## Background
-
-
+## Background
 
 Before transitioning into data science and AI, I built experience in logistics, operations, documentation, compliance, communication, and problem-solving.
 
-
-
 That background helps me approach technical projects with business awareness, discipline, and practical decision-making.
 
+## Contact
 
-
-\## Contact
-
-
-
-\* Email: \[asaawukukwame@gmail.com](mailto:asaawukukwame@gmail.com)
-
-\* LinkedIn: https://www.linkedin.com/in/kwame-asa-awuku-164a5737b
-
-\* GitHub: https://github.com/asaawukukwame-alt
-
-
-
-
-
+- Email: [asaawukukwame@gmail.com](mailto:asaawukukwame@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/kwame-asa-awuku-164a5737b
+- GitHub: https://github.com/asaawukukwame-alt
