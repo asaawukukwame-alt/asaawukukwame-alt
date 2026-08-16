@@ -25,7 +25,18 @@ A LangGraph-powered AI research application that gathers SEC EDGAR fundamentals,
 
 **Repository:** https://github.com/asaawukukwame-alt/ai-stock-research-agent
 
+### RAG API with FastAPI
+
+A deployed Retrieval-Augmented Generation API built with FastAPI, ChromaDB, Docker, GitHub Actions, and the OpenAI API. The project ingests a sample policy document, chunks it, indexes it into ChromaDB, retrieves relevant context, and generates grounded answers through an API endpoint.
+
+**Skills:** Python, FastAPI, ChromaDB, OpenAI API, Pydantic, pytest, Docker, GitHub Actions, Render deployment
+
+**Repository:** https://github.com/asaawukukwame-alt/rag-api-fastapi
+
+**Live Demo:** https://rag-api-fastapi-1.onrender.com/docs#/
+
 ---
+
 
 ### TripleTen Data Science Portfolio
 
