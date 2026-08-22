@@ -34,6 +34,15 @@ A deployed Retrieval-Augmented Generation API built with FastAPI, ChromaDB, Dock
 **Repository:** https://github.com/asaawukukwame-alt/rag-api-fastapi
 
 **Live Demo:** https://rag-api-fastapi-1.onrender.com/docs#/
+---
+
+### AWS Bedrock Chatbot
+
+A working AI chatbot built with Python, Boto3, Streamlit, and Amazon Bedrock. The project connects a Python application to AWS Bedrock Runtime, invokes Amazon Nova Lite through the Converse API, and supports both a command-line chatbot and a Streamlit web interface.
+
+**Skills:** Python, AWS Bedrock, Boto3, Amazon Nova Lite, Streamlit, python-dotenv, CLI apps, environment variables
+
+**Repository:** https://github.com/asaawukukwame-alt/aws-bedrock-chatbot
 
 ---
 
@@ -86,7 +95,7 @@ Compared regression models to predict used car prices while evaluating model qua
 
 **Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, classification, regression, model evaluation
 
-**AI Engineering:** OpenAI API, LangGraph, LangChain, Pydantic, Streamlit, structured LLM outputs
+**AI Engineering:** AWS Bedrock, Boto3, OpenAI API, LangGraph, LangChain, Pydantic, Streamlit, structured LLM outputs
 
 **Core Areas:** feature engineering, NLP, time series forecasting, supervised learning, model validation, business analysis
 
@@ -115,3 +124,4 @@ That background helps me approach technical projects with business awareness, di
 - Email: [asaawukukwame@gmail.com](mailto:asaawukukwame@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/kwame-asa-awuku-164a5737b
 - GitHub: https://github.com/asaawukukwame-alt
+
