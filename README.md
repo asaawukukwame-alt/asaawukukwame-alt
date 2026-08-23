@@ -1,30 +1,40 @@
-# Hi, I'm Kwame Asa-Awuku
+# Kwame Asa-Awuku
 
-I am a Data Science and AI Engineering student building practical machine learning, data science, and AI application projects with Python, SQL, Streamlit, FastAPI, AWS Bedrock, LangGraph, OpenAI APIs, and scikit-learn.
+Applied **AI Engineering** and **Data Science** portfolio builder focused on practical machine learning, generative AI applications, cloud AI tools, and business automation.
 
-I am transitioning into tech with a portfolio focused on business-driven data science, machine learning, AI agents, NLP, time series forecasting, cloud AI applications, and applied AI systems.
+I am TripleTen-trained in data science and machine learning, and I am building job-ready projects that show hands-on work with Python, SQL, FastAPI, Streamlit, AWS Bedrock, Boto3, LangGraph, OpenAI APIs, ChromaDB, Docker, GitHub Actions, and scikit-learn.
 
 ## Career Focus
 
-- Data Science
-- Machine Learning Engineering
 - AI Engineering
+- Machine Learning Engineering
+- Data Science
 - Generative AI Applications
+- RAG and LLM Applications
 - Cloud AI Applications
 - NLP and Text Classification
 - Time Series Forecasting
-- Business-Focused Data Analysis
-- AI Automation Tools
+- Business Automation Tools
 
 ## Featured Projects
 
-### AI Stock Research Agent
+### AI Job Search Agent
 
-A LangGraph-powered AI research application that gathers SEC EDGAR fundamentals, Yahoo Finance market data, and recent headlines to generate structured equity research briefs using GPT-4o.
+A career automation tool that compares a resume/profile against a job description, extracts matching skills, identifies missing skills, calculates a skill coverage score, maps project proof, and generates recruiter-ready application copy.
 
-**Skills:** Python, LangGraph, OpenAI API, LangChain, Pydantic, yfinance, SEC EDGAR API, Streamlit
+**Skills:** Python, Streamlit, pandas, pytest, skill extraction, alias matching, job-fit scoring, resume analysis, career automation
 
-**Repository:** https://github.com/asaawukukwame-alt/ai-stock-research-agent
+**Repository:** https://github.com/asaawukukwame-alt/ai-job-search-agent
+
+---
+
+### AWS Security Guard AI
+
+An AI-powered AWS cloud security assistant that scans mock AWS inventory data, flags risky IAM, S3, security group, and secrets configurations, and uses Amazon Bedrock with Amazon Nova Lite to explain the findings in plain English.
+
+**Skills:** Python, AWS Bedrock, Amazon Nova Lite, Boto3, Streamlit, pandas, pytest, cloud security, IAM, S3, security groups, secrets management
+
+**Repository:** https://github.com/asaawukukwame-alt/aws-security-guard-ai
 
 ---
 
@@ -50,91 +60,47 @@ A working AI chatbot built with Python, Boto3, Streamlit, and Amazon Bedrock. Th
 
 ---
 
-### AWS Security Guard AI
+### AI Stock Research Agent
 
-An AI-powered AWS cloud security assistant that scans mock AWS inventory data, flags risky IAM, S3, security group, and secrets configurations, and uses Amazon Bedrock with Amazon Nova Lite to explain the findings in plain English.
+A LangGraph-powered AI research application that gathers SEC EDGAR fundamentals, Yahoo Finance market data, and recent headlines to generate structured equity research briefs using GPT-4o.
 
-**Skills:** Python, AWS Bedrock, Amazon Nova Lite, Boto3, Streamlit, pandas, pytest, cloud security, IAM, S3, security groups, secrets management
+**Skills:** Python, LangGraph, OpenAI API, LangChain, Pydantic, yfinance, SEC EDGAR API, Streamlit
 
-**Repository:** https://github.com/asaawukukwame-alt/aws-security-guard-ai
-
----
+**Repository:** https://github.com/asaawukukwame-alt/ai-stock-research-agent
 
 ---
-
-### AI Job Search Agent
-
-A career automation tool that compares a resume/profile against a job description, extracts matching skills, identifies missing skills, calculates a skill coverage score, maps project proof, and generates recruiter-ready application copy.
-
-**Skills:** Python, Streamlit, pandas, pytest, skill extraction, alias matching, job-fit scoring, resume analysis, career automation
-
-**Repository:** https://github.com/asaawukukwame-alt/ai-job-search-agent
-
 
 ### TripleTen Data Science Portfolio
 
 A collection of applied data science and machine learning projects covering customer churn prediction, sentiment classification, used car price prediction, gold recovery modeling, and taxi demand forecasting.
 
-**Skills:** Python, pandas, NumPy, scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, Jupyter Notebook, model evaluation
+**Skills:** Python, pandas, NumPy, scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, Jupyter Notebook, feature engineering, model evaluation
 
 **Repository:** https://github.com/asaawukukwame-alt/Data_projects_TripleTen
-
----
-
-### Telecom Churn Prediction
-
-Built a CatBoost classification model to predict customer churn and support customer retention strategy.
-
-**Skills:** Python, pandas, scikit-learn, CatBoost, LightGBM, feature engineering, AUC-ROC, classification
-
----
-
-### Taxi Demand Forecasting
-
-Built a time-series forecasting model to predict hourly taxi demand using lag features, rolling averages, and regression models.
-
-**Skills:** Python, pandas, scikit-learn, time series, regression, RMSE, feature engineering
-
----
-
-### Movie Review Sentiment Classification
-
-Built an NLP model to classify movie reviews by sentiment using text preprocessing and machine learning classification methods.
-
-**Skills:** Python, NLP, text preprocessing, classification, model evaluation
-
----
-
-### Used Car Price Prediction
-
-Compared regression models to predict used car prices while evaluating model quality, training speed, prediction speed, and business usefulness.
-
-**Skills:** Python, regression, LightGBM, CatBoost, model comparison, RMSE
 
 ## Technical Skills
 
 **Languages:** Python, SQL
 
-**Data Analysis:** pandas, NumPy, SciPy, Excel, data cleaning, exploratory data analysis
+**Data Science:** pandas, NumPy, SciPy, Excel, data cleaning, exploratory data analysis, feature engineering
 
-**Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, classification, regression, model evaluation
+**Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, classification, regression, NLP, time series forecasting, model evaluation
 
-**AI Engineering:** AWS Bedrock, Boto3, OpenAI API, LangGraph, LangChain, Pydantic, FastAPI, Streamlit, structured LLM outputs
+**AI Engineering:** AWS Bedrock, Boto3, OpenAI API, LangGraph, LangChain, Pydantic, FastAPI, Streamlit, RAG, structured LLM outputs
 
 **Cloud and Deployment:** AWS Bedrock, Render, Docker, GitHub Actions, environment variables, API deployment
-
-**Core Areas:** feature engineering, NLP, time series forecasting, supervised learning, model validation, business analysis, cloud security
 
 **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ## Current Focus
 
-I am currently strengthening my portfolio with:
+I am currently building and improving:
 
-- RAG applications
+- Production-style AI applications
+- RAG systems and LLM tools
 - FastAPI model APIs
 - AWS Bedrock applications
-- AI agents
+- AI agents and automation workflows
 - Streamlit dashboards
 - Dockerized AI applications
 - Job-ready GitHub documentation
