@@ -60,6 +60,17 @@ An AI-powered AWS cloud security assistant that scans mock AWS inventory data, f
 
 ---
 
+---
+
+### AI Job Search Agent
+
+A career automation tool that compares a resume/profile against a job description, extracts matching skills, identifies missing skills, calculates a skill coverage score, maps project proof, and generates recruiter-ready application copy.
+
+**Skills:** Python, Streamlit, pandas, pytest, skill extraction, alias matching, job-fit scoring, resume analysis, career automation
+
+**Repository:** https://github.com/asaawukukwame-alt/ai-job-search-agent
+
+
 ### TripleTen Data Science Portfolio
 
 A collection of applied data science and machine learning projects covering customer churn prediction, sentiment classification, used car price prediction, gold recovery modeling, and taxi demand forecasting.
