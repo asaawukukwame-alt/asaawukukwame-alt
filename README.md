@@ -1,8 +1,8 @@
 # Hi, I'm Kwame Asa-Awuku
 
-I am a Data Science and AI Engineering student building practical machine learning, data science, and AI application projects with Python, SQL, Streamlit, LangGraph, OpenAI APIs, and scikit-learn.
+I am a Data Science and AI Engineering student building practical machine learning, data science, and AI application projects with Python, SQL, Streamlit, FastAPI, AWS Bedrock, LangGraph, OpenAI APIs, and scikit-learn.
 
-I am transitioning into tech with a portfolio focused on business-driven data science, machine learning, AI agents, NLP, time series forecasting, and applied AI systems.
+I am transitioning into tech with a portfolio focused on business-driven data science, machine learning, AI agents, NLP, time series forecasting, cloud AI applications, and applied AI systems.
 
 ## Career Focus
 
@@ -10,6 +10,7 @@ I am transitioning into tech with a portfolio focused on business-driven data sc
 - Machine Learning Engineering
 - AI Engineering
 - Generative AI Applications
+- Cloud AI Applications
 - NLP and Text Classification
 - Time Series Forecasting
 - Business-Focused Data Analysis
@@ -25,11 +26,11 @@ A LangGraph-powered AI research application that gathers SEC EDGAR fundamentals,
 
 **Repository:** https://github.com/asaawukukwame-alt/ai-stock-research-agent
 
+---
+
 ### RAG API with FastAPI
 
 A deployed Retrieval-Augmented Generation API built with FastAPI, ChromaDB, Docker, GitHub Actions, and the OpenAI API. The project ingests a sample policy document, chunks it, indexes it into ChromaDB, retrieves relevant context, and generates grounded answers through an API endpoint.
-
-AWS Bedrock Chatbot
 
 **Skills:** Python, FastAPI, ChromaDB, OpenAI API, Pydantic, pytest, Docker, GitHub Actions, Render deployment
 
@@ -39,6 +40,13 @@ AWS Bedrock Chatbot
 
 ---
 
+### AWS Bedrock Chatbot
+
+A working AI chatbot built with Python, Boto3, Streamlit, and Amazon Bedrock. The project connects a Python application to AWS Bedrock Runtime, invokes Amazon Nova Lite through the Converse API, and supports both a command-line chatbot and a Streamlit web interface.
+
+**Skills:** Python, AWS Bedrock, Boto3, Amazon Nova Lite, Streamlit, python-dotenv, CLI apps, environment variables
+
+**Repository:** https://github.com/asaawukukwame-alt/aws-bedrock-chatbot
 
 ---
 
@@ -50,7 +58,7 @@ An AI-powered AWS cloud security assistant that scans mock AWS inventory data, f
 
 **Repository:** https://github.com/asaawukukwame-alt/aws-security-guard-ai
 
-
+---
 
 ### TripleTen Data Science Portfolio
 
@@ -100,9 +108,11 @@ Compared regression models to predict used car prices while evaluating model qua
 
 **Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, classification, regression, model evaluation
 
-**AI Engineering:** OpenAI API, LangGraph, LangChain, Pydantic, Streamlit, structured LLM outputs
+**AI Engineering:** AWS Bedrock, Boto3, OpenAI API, LangGraph, LangChain, Pydantic, FastAPI, Streamlit, structured LLM outputs
 
-**Core Areas:** feature engineering, NLP, time series forecasting, supervised learning, model validation, business analysis
+**Cloud and Deployment:** AWS Bedrock, Render, Docker, GitHub Actions, environment variables, API deployment
+
+**Core Areas:** feature engineering, NLP, time series forecasting, supervised learning, model validation, business analysis, cloud security
 
 **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
@@ -112,7 +122,7 @@ I am currently strengthening my portfolio with:
 
 - RAG applications
 - FastAPI model APIs
-- AWS Bedrock chatbots
+- AWS Bedrock applications
 - AI agents
 - Streamlit dashboards
 - Dockerized AI applications
