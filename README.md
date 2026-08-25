@@ -1,15 +1,15 @@
 # Kwame Asa-Awuku
 
-Applied **AI Engineering** and **Data Science** portfolio builder focused on practical machine learning, generative AI applications, cloud AI tools, and business automation.
+Applied **AI Engineering** and **Data Science** portfolio builder focused on practical machine learning, production AI applications, cloud AI tools, and business automation.
 
-I am TripleTen-trained in data science and machine learning, and I am building job-ready projects that show hands-on work with Python, SQL, FastAPI, Streamlit, AWS Bedrock, Boto3, LangGraph, OpenAI APIs, ChromaDB, Docker, GitHub Actions, and scikit-learn.
+I am TripleTen-trained in data science and machine learning, and I am building job-ready projects that show hands-on work with Python, SQL, FastAPI, Streamlit, AWS Bedrock, Boto3, LangGraph, OpenAI APIs, ChromaDB, Docker, GitHub Actions, MLflow, SQLite, and scikit-learn.
 
 ## Career Focus
 
 - AI Engineering
 - Machine Learning Engineering
 - Data Science
-- Generative AI Applications
+- Production AI/ML Applications
 - RAG and LLM Applications
 - Cloud AI Applications
 - NLP and Text Classification
@@ -17,6 +17,30 @@ I am TripleTen-trained in data science and machine learning, and I am building j
 - Business Automation Tools
 
 ## Featured Projects
+
+### TruckGuard AI — Production AI/ML Platform for Trucking HOS Risk
+
+A production-style AI/ML platform that evaluates trucking Hours-of-Service risk using a federal HOS rules engine, a custom ML risk classifier, FastAPI, Streamlit, SQLite prediction logging, MLflow tracking, Docker, GitHub Actions CI, and a live Render API deployment.
+
+**Skills:** Python, FastAPI, Streamlit, machine learning, MLflow, SQLAlchemy, SQLite, Docker, GitHub Actions, pytest, Render deployment, transportation compliance, trucking domain logic
+
+**Repository:** https://github.com/asaawukukwame-alt/production-ai-ml-platform-aws
+
+**Live Demo:** https://truckguard-ai.onrender.com/docs
+
+---
+
+### RAG API with FastAPI
+
+A deployed Retrieval-Augmented Generation API built with FastAPI, ChromaDB, Docker, GitHub Actions, and the OpenAI API. The project ingests a sample policy document, chunks it, indexes it into ChromaDB, retrieves relevant context, and generates grounded answers through an API endpoint.
+
+**Skills:** Python, FastAPI, ChromaDB, OpenAI API, Pydantic, pytest, Docker, GitHub Actions, Render deployment
+
+**Repository:** https://github.com/asaawukukwame-alt/rag-api-fastapi
+
+**Live Demo:** https://rag-api-fastapi-1.onrender.com/docs#/
+
+---
 
 ### AI Job Search Agent
 
@@ -35,28 +59,6 @@ An AI-powered AWS cloud security assistant that scans mock AWS inventory data, f
 **Skills:** Python, AWS Bedrock, Amazon Nova Lite, Boto3, Streamlit, pandas, pytest, cloud security, IAM, S3, security groups, secrets management
 
 **Repository:** https://github.com/asaawukukwame-alt/aws-security-guard-ai
-
----
-
-### RAG API with FastAPI
-
-A deployed Retrieval-Augmented Generation API built with FastAPI, ChromaDB, Docker, GitHub Actions, and the OpenAI API. The project ingests a sample policy document, chunks it, indexes it into ChromaDB, retrieves relevant context, and generates grounded answers through an API endpoint.
-
-**Skills:** Python, FastAPI, ChromaDB, OpenAI API, Pydantic, pytest, Docker, GitHub Actions, Render deployment
-
-**Repository:** https://github.com/asaawukukwame-alt/rag-api-fastapi
-
-**Live Demo:** https://rag-api-fastapi-1.onrender.com/docs#/
-
----
-
-### AWS Bedrock Chatbot
-
-A working AI chatbot built with Python, Boto3, Streamlit, and Amazon Bedrock. The project connects a Python application to AWS Bedrock Runtime, invokes Amazon Nova Lite through the Converse API, and supports both a command-line chatbot and a Streamlit web interface.
-
-**Skills:** Python, AWS Bedrock, Boto3, Amazon Nova Lite, Streamlit, python-dotenv, CLI apps, environment variables
-
-**Repository:** https://github.com/asaawukukwame-alt/aws-bedrock-chatbot
 
 ---
 
@@ -84,9 +86,11 @@ A collection of applied data science and machine learning projects covering cust
 
 **Data Science:** pandas, NumPy, SciPy, Excel, data cleaning, exploratory data analysis, feature engineering
 
-**Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, classification, regression, NLP, time series forecasting, model evaluation
+**Machine Learning:** scikit-learn, CatBoost, LightGBM, TensorFlow/Keras, classification, regression, custom classifiers, NLP, time series forecasting, model evaluation
 
 **AI Engineering:** AWS Bedrock, Boto3, OpenAI API, LangGraph, LangChain, Pydantic, FastAPI, Streamlit, RAG, structured LLM outputs
+
+**Production and MLOps:** Docker, GitHub Actions CI, MLflow, SQLAlchemy, SQLite, model artifacts, API deployment, automated tests, environment variables
 
 **Cloud and Deployment:** AWS Bedrock, Render, Docker, GitHub Actions, environment variables, API deployment
 
@@ -96,20 +100,21 @@ A collection of applied data science and machine learning projects covering cust
 
 I am currently building and improving:
 
-- Production-style AI applications
+- Production-style AI/ML applications
 - RAG systems and LLM tools
 - FastAPI model APIs
 - AWS Bedrock applications
 - AI agents and automation workflows
 - Streamlit dashboards
 - Dockerized AI applications
+- GitHub Actions CI pipelines
 - Job-ready GitHub documentation
 
 ## Background
 
 Before transitioning into data science and AI, I built experience in logistics, operations, documentation, compliance, communication, and problem-solving.
 
-That background helps me approach technical projects with business awareness, discipline, and practical decision-making.
+That background helps me approach technical projects with business awareness, discipline, and practical decision-making. TruckGuard AI connects that logistics background directly with applied AI/ML engineering.
 
 ## Contact
 
